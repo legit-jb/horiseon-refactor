@@ -17,12 +17,13 @@ was added to give some text if it can be read. If it is skipped, the consumer do
 Since accessibiily compliance was a priority, a style change needed to be made.
 
 This:
-```md
-    ![original element with an image with right float property](./assets/images/original.png)
+
+![original element with an image with right float property](./assets/images/original.png)
 
 to this:
-```md
-    ![changed element with the image floated to the left](.?assets/images/changed.png)
+
+
+![changed element with the image floated to the left](./assets/images/changed.png)
 
 If an image is floated right then a reader will not convey the setup correctly as it only reads HTML.
 
