@@ -32,6 +32,7 @@ I would discuss this change and work on a solution.
 As I was going through the style.css and index.html I consolidated extraneous code. For example:
 
 The original code of:
+```md
 .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
@@ -46,20 +47,20 @@ The original code of:
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+```
 was consolidated to:
-
+```md
 h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+```
 This was done throughout the code. As well as cleaning up any extraneous symbols such as:
-
+```md
 <img src="./assets/images/cost-management.png"></img>
-
+```
 was changed to:
-
+```md
 <img src="./assets/images/social-media-marketing.jpg" alt="people at a table intering with a laptop, tablets, and icons showing social media buzzwords such as tweet and share">
 ***(the ending </img> was unnecesary and deleted)***
-
+```
