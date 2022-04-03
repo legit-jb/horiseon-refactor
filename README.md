@@ -11,7 +11,7 @@ The use of a background image is still in the style.css as it is largely aesthet
 
 "<span role="img" aria-label="people at a conference table collaborating on bussiness and search optimization strategies"> </span>"
 
-was added to give some text if it can be read. If it is skipped, the consumer doesn't miss any needed information. Its more of a bunus.
+was added to give some text if it can be read. If it is skipped, the consumer doesn't miss any needed information. Its more of a bonus.
 
 **********NOTE***********
 Since accessibiily compliance was a priority, a style change needed to be made.
